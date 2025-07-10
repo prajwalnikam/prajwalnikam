@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Prajwal Nikam</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast | 🛠 Laravel Specialist | 🎓 B.Tech CSE Student</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast </h3>
 
 ---
 
