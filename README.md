@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prajwalnikam/prajwalnikam/main/assets/banner.gif" width="100%" alt="Prajwal Nikam Banner">
+  <img src="https://drive.google.com/uc?export=download&id=1R5EC8be7S_vIR0IvUyGKlgy12EgIzHpi" alt="Banner" width="100%" height="550"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Prajwal Nikam</h1>
