@@ -22,15 +22,6 @@ I love turning ideas into real-world applications and believe in writing clean, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalnikam&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalnikam&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
 ## 🛠 Languages and Tools
 
 <p align="center">
@@ -47,6 +38,10 @@ I love turning ideas into real-world applications and believe in writing clean, 
 
 ---
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=download&id=12sLoh9QpxL0xzXyltO92LPbf8mMTnFiE" alt="Banner" width="100%" height="430"/>
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🔍 The Sherlock - AI Evaluation Chatbot
@@ -60,6 +55,14 @@ Connects clients with vendors to utilize bench resources through a job-post and 
 ### 🏠 ASHRAY – Real Estate Platform
 > *PHP, Laravel*  
 A property rental and selling portal to bridge the gap between landlords and tenants with no middlemen.
+
+---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalnikam&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalnikam&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
 ---
 
