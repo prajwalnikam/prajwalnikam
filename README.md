@@ -69,7 +69,7 @@ A property rental and selling portal to bridge the gap between landlords and ten
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-nikam/" target="blank">
+  <a href="https://www.linkedin.com/in/prajwal-nikam-pn2181/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:prajwalnikam4@gmail.com" target="blank">
