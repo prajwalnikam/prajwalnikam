@@ -1,67 +1,68 @@
-
-<!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1R5EC8be7S_vIR0IvUyGKlgy12EgIzHpi" alt="Banner" width="100%" height="550"/>
+  <img src="https://drive.google.com/uc?export=download&id=1R5EC8be7S_vIR0IvUyGKlgy12EgIzHpi" alt="Banner" width="100%" height="400"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Prajwal Nikam</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Java & Laravel Enthusiast | 🏆 National Level Hackathon Finalist</h3>
 
 ---
 
-## 🌟 Who Am I?
-> “Code is my language. Creativity is my tool.”
+## 🌟 About Me
+> "Turning complex problems into elegant, scalable code."
 
-I am a highly motivated developer.
-I love turning ideas into real-world applications and believe in writing clean, efficient, and maintainable code.
+I am a **Dynamic Full-Stack Developer** with a passion for building high-impact technology solutions. With a solid foundation in **Java**, **Laravel**, and **React**, I specialize in developing end-to-end applications that bridge the gap between user needs and technical excellence.
 
-- 🔭 I’m currently working on AI-based evaluation chatbots using Laravel + GPT
-- 🌱 Learning React, Docker, and Cloud Integration
-- 💬 Ask me about **Laravel**, **PHP**, **Java**, or anything backend!
-- ⚡ Fun fact: I’ve built a platform that evaluates candidates using AI-generated domain tests!
+- 🔭 **Current Focus:** Engineering AI-driven evaluation systems and scalable B2B portals.
+- 🥇 **Achievement:** Ranked **Top 10 Nationwide** at the "Brain-it-On 2.0" National Hackathon.
+- 💬 **Ask me about:** Backend Architecture, Spring Boot, Laravel, or Cloud Concepts.
+- ⚡ **Fun Fact:** I'm also a Chess enthusiast and represented my college at the PERA Premier Championship.
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=12sLoh9QpxL0xzXyltO92LPbf8mMTnFiE" alt="Banner" width="100%" height="430"/>
-</p>
 
 ## 🚀 Featured Projects
 
-### 🔍 The Sherlock - AI Evaluation Chatbot
-> *Laravel, OpenAI, Botpress*  
-An AI-powered chatbot that evaluates user readiness for projects by generating and scoring domain-specific questions.
-
-### 🤝 Freelancing for B2B
-> *PHP Laravel*  
-Connects clients with vendors to utilize bench resources through a job-post and proposal system.
-
 ### 🏠 ASHRAY – Real Estate Platform
-> *PHP, Laravel*  
-A property rental and selling portal to bridge the gap between landlords and tenants with no middlemen.
+* **Stack:** Java, Spring Boot.
+* A zero-commission web platform for landlords and renters to list and discover properties (flats, rooms, bungalows).
+
+### 🔍 The Sherlock - AI Evaluation Chatbot
+* **Stack:** Laravel, JavaScript, HTML, CSS.
+* An intelligent chatbot that evaluates user eligibility for software projects by generating dynamic assessments and estimating development timelines.
+
+### 🤝 Freelancing Portal for B2B
+* **Stack:** Laravel, JavaScript, Blade.
+* Connects clients with vendors to optimize resource utilization by monitoring "bench time" and managing proposals.
 
 ---
-## 📈 GitHub Stats
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalnikam&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalnikam&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalnikam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalnikam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -69,16 +70,13 @@ A property rental and selling portal to bridge the gap between landlords and ten
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-nikam-pn2181/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/prajwal-nikam-pn2181/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prajwalnikam4@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:prajwalnikam4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://prajwalnikam.github.io/Portfolio/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
+  <a href="https://prajwalnikam.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
----
-
