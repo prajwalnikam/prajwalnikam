@@ -72,3 +72,7 @@ I am a **Dynamic Full-Stack Developer** passionate about building high-impact te
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<div align="center">
+  <sub>Designed & Developed by Prajwal Nikam • Let's build something scalable together.</sub>
+</div>
